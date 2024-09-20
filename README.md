@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Janaki Truno</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Tableu,PowerBI,Big Database tools**
+- 🌱 I’m currently learning **PowerBI,Big Database tools**
 
-- 💬 Ask me about **Python,SQL,Machine Learning**
+- 💬 Ask me about **Python,SQL,Machine Learning,Tableu**
 
 - 📫 How to reach me **janakitruno@gmail.com**
 
