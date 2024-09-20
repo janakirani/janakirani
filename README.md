@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PowerBI,Big Database tools**
 
-- 💬 Ask me about **Python,SQL,Machine Learning,Tableu**
+- 💬 Ask me about **Python,SQL,Machine Learning,Tableau**
 
 - 📫 How to reach me **janakitruno@gmail.com**
 
